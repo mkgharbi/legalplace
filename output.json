@@ -9,7 +9,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 19,
-        "benefit": 29
+        "benefit": 58
       },
       {
         "name": "Herbal Tea",
@@ -36,7 +36,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 18,
-        "benefit": 27
+        "benefit": 56
       },
       {
         "name": "Herbal Tea",
@@ -63,7 +63,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 17,
-        "benefit": 25
+        "benefit": 54
       },
       {
         "name": "Herbal Tea",
@@ -90,7 +90,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 16,
-        "benefit": 23
+        "benefit": 52
       },
       {
         "name": "Herbal Tea",
@@ -117,7 +117,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 15,
-        "benefit": 21
+        "benefit": 50
       },
       {
         "name": "Herbal Tea",
@@ -144,7 +144,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 14,
-        "benefit": 19
+        "benefit": 48
       },
       {
         "name": "Herbal Tea",
@@ -171,7 +171,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 13,
-        "benefit": 17
+        "benefit": 46
       },
       {
         "name": "Herbal Tea",
@@ -198,7 +198,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 12,
-        "benefit": 15
+        "benefit": 44
       },
       {
         "name": "Herbal Tea",
@@ -225,7 +225,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 11,
-        "benefit": 13
+        "benefit": 42
       },
       {
         "name": "Herbal Tea",
@@ -252,7 +252,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 10,
-        "benefit": 11
+        "benefit": 40
       },
       {
         "name": "Herbal Tea",
@@ -279,7 +279,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 9,
-        "benefit": 9
+        "benefit": 38
       },
       {
         "name": "Herbal Tea",
@@ -306,7 +306,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 8,
-        "benefit": 7
+        "benefit": 36
       },
       {
         "name": "Herbal Tea",
@@ -333,7 +333,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 7,
-        "benefit": 5
+        "benefit": 34
       },
       {
         "name": "Herbal Tea",
@@ -360,7 +360,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 6,
-        "benefit": 3
+        "benefit": 32
       },
       {
         "name": "Herbal Tea",
@@ -387,7 +387,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 5,
-        "benefit": 1
+        "benefit": 30
       },
       {
         "name": "Herbal Tea",
@@ -414,7 +414,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 4,
-        "benefit": 0
+        "benefit": 28
       },
       {
         "name": "Herbal Tea",
@@ -441,7 +441,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 3,
-        "benefit": 0
+        "benefit": 26
       },
       {
         "name": "Herbal Tea",
@@ -468,7 +468,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 2,
-        "benefit": 0
+        "benefit": 24
       },
       {
         "name": "Herbal Tea",
@@ -495,7 +495,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 1,
-        "benefit": 0
+        "benefit": 22
       },
       {
         "name": "Herbal Tea",
@@ -522,7 +522,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": 0,
-        "benefit": 0
+        "benefit": 20
       },
       {
         "name": "Herbal Tea",
@@ -549,7 +549,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": -1,
-        "benefit": 0
+        "benefit": 16
       },
       {
         "name": "Herbal Tea",
@@ -576,7 +576,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": -2,
-        "benefit": 0
+        "benefit": 12
       },
       {
         "name": "Herbal Tea",
@@ -603,7 +603,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": -3,
-        "benefit": 0
+        "benefit": 8
       },
       {
         "name": "Herbal Tea",
@@ -630,7 +630,7 @@
       {
         "name": "Dafalgan",
         "expiresIn": -4,
-        "benefit": 0
+        "benefit": 4
       },
       {
         "name": "Herbal Tea",
