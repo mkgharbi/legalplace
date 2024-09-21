@@ -46,15 +46,10 @@ export class Pharmacy {
   }
 
   updateFervexBenefit(drug) {
-    if (drug.expiresIn < 0) {
-      drug.benefit = 0;
-    } else if (drug.expiresIn < 5) {
-      this.increaseBenefit(drug, 3);
-    } else if (drug.expiresIn < 10) {
-      this.increaseBenefit(drug, 2);
-    } else {
-      this.increaseBenefit(drug, 1);
-    }
+    if (drug.expiresIn < 0) drug.benefit = 0;
+    else if (drug.expiresIn < 5) this.increaseBenefit(drug, 3);
+    else if (drug.expiresIn < 10) this.increaseBenefit(drug, 2);
+    else this.increaseBenefit(drug, 1);
   }
 
   updateDafalganBenefit(drug) {
